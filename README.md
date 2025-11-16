@@ -8,17 +8,17 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and AI/ML Engineer
 
 🔄 Tools & Technologies
 
-⭐PROGRAMMING LANGUAGES: Python , Java(Basic) , C++(Basic) , JavaScript , SQL(Basic)
+⭐PROGRAMMING LANGUAGES: Python , C, Java(Basic) , C++(Basic) , SQL(Basic)
 
-⭐MACHINE LEARNING / DEEP LEARNING: TensorFlow, PyTorch, scikit-learn, Keras
+⭐MACHINE LEARNING / DEEP LEARNING: TensorFlow, PyTorch, scikit-learn, Keras, Gen AI
 
 ⭐DATA VISUALIZATION: Plotly, Matplotlib, Seaborn , POWERBI
 
 ⭐DATABASES: MySQL, PostgreSQL, MongoDB
 
-⭐FRAMEWORKS: Django, Flask ,ASP.NET
+⭐FRAMEWORKS: Django, Flask 
 
-⭐WEB DEVELOPMENT: HTML, CSS
+⭐WEB DEVELOPMENT: HTML, CSS, Javascript, Nextjs
 
 ⭐CLOUD FLATFORM: AWS
 
